@@ -1,0 +1,46 @@
+You can ask Iva the follwoing:
+
+Greetings: 'hey', 'hi', 'hello'
+
+Name: "what is your name", "what's your name", "tell me your name"
+
+You can tell her your name: "my name is"
+
+Ask her for your name: "what is my name"
+
+You can change her name to whatever you want: "your name should be"
+
+You can ask who she is: "who are you"
+
+You can ask who made her: 'who made you'
+
+Greetings 2: "how are you", "how are you doing"
+
+Time: "what's the time", "tell me the time", "what time is it", "what is the time"
+
+Search Google: "search for.............." or "search........"
+
+Seach on Youtube: 'search youtube for............'
+
+Weather: "weather for .........."
+
+Game: 'game' then 'choose among rock paper or scissor'
+
+Toss a coin: "toss", "flip", "coin"
+
+Calculate: "plus", "minus", "multiply", "divide", "power", "+", "-", "*", "/"
+
+Screenshot: "capture", "my screen", "screenshot"
+
+Definition of something: "definition of"
+
+My current location: "what is my exact location"
+
+Turn volume up or down: 'volume up' 'volume down'
+
+
+
+
+
+
+
